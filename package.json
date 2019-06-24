@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-callbacks-promises-and-asynchronous-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Acync-Await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poton8/NodeJs-callbacks-promises-and-asynchronous-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poton8/NodeJs-callbacks-promises-and-asynchronous-functions/issues"
+  },
+  "homepage": "https://github.com/poton8/NodeJs-callbacks-promises-and-asynchronous-functions#readme"
+}
